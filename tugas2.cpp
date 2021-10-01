@@ -2,6 +2,9 @@
 
 using namespace std;
 
-void main(){
-    return "nama saya icut";
+int main(){
+    int umur = 20;
+
+    cout<<"Umur saya sekarang"<<umur<<" Tahun";
+    
 }
