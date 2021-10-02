@@ -3,8 +3,8 @@
 using namespace std;
 
 int main(){
-    int umur = 20;
+    int umur = 21;
 
-    cout<<"Umur saya sekarang"<<umur<<" Tahun"<<endl;
+    cout<<"berarti usia kalian adalah"<<umur<<" Tahun"<<endl;
     
 }
